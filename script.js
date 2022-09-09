@@ -1,3 +1,4 @@
+// remove or comment out line 2 when in browser
 import fetch from "node-fetch";
 //import fetch from './node_modules';
 
